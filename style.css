@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+}
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: palevioletred;
+    background-color: black;
+    width: 100%;
+}
